@@ -8,5 +8,6 @@
 	</head>
 	<body>
 		<h1>Hello Git </h1>
+		<p>Learned about git status, git staging and committing now it's branching.</p>
 	</body>
 </html>
