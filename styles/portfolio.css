@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+ }
+
+ :root {
+    --bg-main: #071e22; 
+    --bg-elements: #1d7874;
+    --bg-others: #679289;
+    --color1: #f4c095;
+    --color2: #ee2e31;
+ }
+
+ body {
+    background: var(--bg-main);
+    color: #fff;
+ }
+
+ header {
+    background: var(--bg-elements);
+    display: flex;
+    justify-content: space-between;
+ }
+
+ a {
+    color:#fff; 
+ }
+
+ nav ul{
+   display: flex;
+ }
